@@ -1,3 +1,6 @@
 # Static Website 
 
-For now hostded by Cloudflare pages at https://boser-guyon.org (configurable via .env).
+Hostded by Cloudflare pages at https://boser-guyon.org.
+
+* **Develop:** open `./index.html` in a browser
+* **Deploy:** commit and push changes, github action deploys to Cloudflare
